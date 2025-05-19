@@ -73,6 +73,8 @@ BASE_URL = "http://localhost:8000"
 
 ALLOWED_HOSTS = ["*"]
 
+USE_TZ = True
+
 # -----
 # django-payments
 
